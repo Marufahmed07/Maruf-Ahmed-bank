@@ -1,0 +1,8 @@
+body{ padding: 100px;}
+.submit-aria{ margin-top: 30px;
+border-radius: 7px;
+box-shadow: 5px 8px 15px gray;
+padding: 50px;
+width: 500px;
+}
+#Transaction-aria{display:none};
